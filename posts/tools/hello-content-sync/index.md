@@ -2,7 +2,7 @@
 title: 内容仓库示例文章
 slug: hello-content-sync
 tags: [示例, 内容同步]
-published: false
+published: true
 excerpt: 这篇是用来验证同步管线的示例，确认无误后可以直接删掉。
 ---
 
