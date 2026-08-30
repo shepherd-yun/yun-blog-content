@@ -2,7 +2,7 @@
 title: Yazi 命令行文件管理器常用快捷键
 slug: yazi-command-line
 tags: [Yazi, CLI, 终端, 效率工具]
-published: false
+published: true
 excerpt: 一份实用的 Yazi 快捷键速查表，涵盖路径复制、隐藏文件、排序、多标签页，以及 fzf 和 zoxide 快速跳转。
 cover: ./yazi-interface.png
 metaTitle: Yazi 常用快捷键与命令行使用指南
