@@ -16,7 +16,7 @@ CRM 的销售线索列表打开一次要 3 秒。翻页、筛选、导出全都�
 
 结果是接口从 3.0 秒降到 1.7 秒。
 
-![归档前后 pageList 接口耗时对比](./pagelist-before-after.png)
+![归档前后 pageList 接口耗时对比](./hou.png)
 
 上面三条是归档前（3.06s / 3.12s / 2.87s），下面三条是归档后（1.69s / 1.67s / 1.75s）。
 
@@ -419,7 +419,7 @@ OPTIMIZE TABLE wz_crm.crm_sale_follow;
 
 ## 效果
 
-![归档前 pageList 接口耗时 3 秒](./pagelist-before.png)
+![归档前 pageList 接口耗时 3 秒](./hou.png)
 
 | | 归档前 | 归档后 |
 |---|---|---|
